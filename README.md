@@ -40,7 +40,7 @@ Inventor of **Base-Prime**, a ternary coding and encryption method operating on 
 Explore my research and development projects featured on [MetaphysicsandComputing.com](https://metaphysicsandcomputing.com) and [@MetaphyKing on X](https://x.com/MetaphyKing):
 
 - **QEGG** – Quantum Entangled Geometric Grid 
-- **DRGFC** – Dodecahedral Recursive Geometric Fractal Compression  **PROVEN** [DRGFC Scalability Test](https://gist.github.com/DonkRonk17/9a4301d5967c77d7eff531b7cd7d917d)
+- **DRGFC** – Dodecahedral Recursive Geometric Fractal Compression  **PROVEN** [DRGFC Scalability Test](https://gist.github.com/DonkRonk17/9a4301d5967c77d7eff531b7cd7d917d) [Canterbury Corpus & 396:1 Ratio](https://gist.github.com/DonkRonk17/30e469acbb45d26e317abd0f23e2b67b)
 - **LWIS** – Light Wave Information System  
 - **SPTS** – Single Prime Trinary System  
 - **Base-Prime** – Ternary Encryption Method  
